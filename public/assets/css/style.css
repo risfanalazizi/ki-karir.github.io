@@ -1,0 +1,37 @@
+.navbar-brand{
+    display: flex;
+}
+.navbar-brand>.brand-container{
+    width: 80px;
+    margin-right: 0px;
+}
+.navbar-brand>.brand-container>.brand{
+    width: 70%;
+    margin: 0;
+}
+.navbar-brand>.brand-caption>.title{
+    font-weight: bold;
+    margin-bottom: 8px;
+}
+.navbar-brand>.brand-caption>p{
+    margin: 0;
+}
+.navbar-brand>.brand-caption{
+    line-height: 1.2;
+}
+.navbar-brand>.brand-caption>.caption{
+    color: #ccc;}
+.card {
+    margin: 0 auto; /* Added */
+    float: none; /* Added */
+    margin-bottom: 10px; /* Added */
+}
+.bg-primary{
+    background-color: #00796B !important;
+}
+.bg-secondary{
+    background-color: #FFB300 !important;
+}
+.text-primary{
+    color: #00796B !important;
+}
